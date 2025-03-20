@@ -15,3 +15,8 @@
 *DESCRIPTION*
 
 This project analyzes large datasets using Apache Spark, demonstrating filtering, grouping, and aggregations. It includes a Python script, analyze_data.py, that processes data, saving results to Parquet. Follow the README.md for setup, data placement, and execution.
+
+
+*OUTPUT* :  output/results.parquet (Output):
+
+This directory will contain the output of the Spark analysis.
